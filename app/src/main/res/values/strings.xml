@@ -1,0 +1,83 @@
+<resources>
+    <!--  general  -->
+    <string name="hkbp">HKBP Palmarum</string>
+    <string name="contenDescription">ContentDescription</string>
+    <string name="id_jemaat">Id Jemaat</string>
+    <string name="nama_ayah">Nama Ayah</string>
+    <string name="nama_ibu">Nama Ibu</string>
+    <string name="Nama_Lengkap">Nama Lengkap</string>
+    <string name="Tempat_Lahir">Tempat Lahir</string>
+    <string name="Tanggal_Lahir">Tanggal Lahir</string>
+    <string name="jenisKelamin">Jenis kelamin</string>
+    <string name="tanggal_baptis">Tanggal Baptis</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="admin">Admin</string>
+    <string name="tamu">Tamu</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="alamat">Alamat</string>
+    <string name="nomorHp">Nomor Hp</string>
+
+    <!--  Spesifik  -->
+    <string name="belumPunyaAkun">Belum punya akun?</string>
+    <string name="sudahPunyaAkun">Sudah punya akun?</string>
+    <string name="daftar">Daftar</string>
+
+    <string name="lupaPassword">Lupa Password?</string>
+    <string name="gantiPassword">Ganti password</string>
+    <string name="passwordBaru">Password Baru</string>
+    <string name="ulangiPassword">Ulangi password</string>
+
+    <string name="batal">Batal</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="kembali">Kembali</string>
+    <string name="ubah">Ubah</string>
+
+    <string name="sejarah">Sejarah</string>
+    <string name="acaraMinggu">Acara minggu</string>
+    <string name="wartaJemaat">Warta jemaat</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="kegiatan">Kegiatan</string>
+
+    <string name="pendaftaranAkun">Pendaftaran Akun</string>
+    <string name="registrasiKegiatan">Registrasi Kegiatan</string>
+    <string name="profile">Profile</string>
+    <string name="SejarahHKBP">Sejarah HKBP Palmarum</string>
+
+    <string name="selamatDatang">Selamat datang di aplikasi HKBP Palmarum</string>
+    <string name="sejarahHKBPLong">HKBP palmarum merupakan hkbp resosrt yang beralamat di Stadion Tarutung, Hutatoruan VI, Kec. Tarutung, Kabupaten Tapanuli Utara, Sumatera Utara. HKBP Palmarum berdiri pada 20 juni 1999 dan diresmikan pada 24 April 2018. Saat ini pelayan yang menjabat di HKBP tarutung adalah Pdt. Martin Gultom, S.di dan C. Pdt Astuti Telaumbanua, S.Th dan terdapat 8 penatua yang memiliki jabatan di 8 pembagian wilayah HKBP Palmarum Pertahun 2022 tercatat sebanyak 142 kepala keluarga jemaat di HKBP Palmarum dimana sebanyak 60% jemaat berasal dari luar tarutung. HKBP palmarum merupakan hkbp resosrt yang beralamat di Stadion Tarutung, Hutatoruan VI, Kec. Tarutung, Kabupaten Tapanuli Utara, Sumatera Utara. HKBP Palmarum berdiri pada 20 juni 1999 dan diresmikan pada 24 April 2018.</string>
+    <string name="topikMinggu">Topik Minggu: Reminiscere</string>
+
+    <string-array name="registrasi_kegiatan">
+        <item>Registrasi baptis</item>
+        <item>Registrasi sidi</item>
+        <item>Registrasi martupol</item>
+        <item>Registrasi pemberkatan nikah</item>
+        <item>Registrasi jemaat baru</item>
+        <item>Registrasi pindah huria</item>
+    </string-array>
+
+    <string-array name="jenisKelamin">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string-array name="itemList">
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+        <item>Topik Minggu: Reminiscere</item>
+    </string-array>
+</resources>

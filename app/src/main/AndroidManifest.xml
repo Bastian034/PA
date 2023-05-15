@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:name=".util.MyApp"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/logohkbp"
+        android:label="@string/hkbp"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HKBPTarutung"
+        tools:targetApi="31">
+        <activity
+            android:name=".WartaJemaat"
+            android:exported="false" />
+        <activity
+            android:name=".AcaraMinggu"
+            android:exported="false" />
+        <activity
+            android:name=".HistoryPage"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrasiPage"
+            android:exported="false" />
+        <activity
+            android:name=".NotifikasiPage"
+            android:exported="false" />
+        <activity
+            android:name=".Profile"
+            android:exported="false" />
+        <activity
+            android:name=".PendaftaranAkun"
+            android:exported="false" />
+        <activity
+            android:name=".LupaPassword"
+            android:exported="false" />
+        <activity
+            android:name=".HomeTamu"
+            android:exported="false" />
+        <activity
+            android:name=".LoginPage"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HomeJemaat"
+            android:exported="true" />
+    </application>
+;
+</manifest>
